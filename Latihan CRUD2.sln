@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan CRUD2", "Latihan CRUD2\Latihan CRUD2.csproj", "{1E867C59-785D-4B92-9586-7105A3A54173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E867C59-785D-4B92-9586-7105A3A54173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E867C59-785D-4B92-9586-7105A3A54173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E867C59-785D-4B92-9586-7105A3A54173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E867C59-785D-4B92-9586-7105A3A54173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FEF5EC3-FB23-4CDB-8F95-15518ED05ED3}
+	EndGlobalSection
+EndGlobal
